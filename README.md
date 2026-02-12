@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I'm currently building a 3-cluster mini homelab and experimenting with other home servers powered by Raspberry Pis, along with IoT projects using ESP32 and Arduino microcontrollers.
+- 🌱 I’m currently building my knowledge in networking, cluster computing, scripting, network storage, cybersecurity, and Python.
+- 👯 I’m interested in working with others on network design projects and full-stack web development.
+
 <!--
 **jobdecrypt/jobdecrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
